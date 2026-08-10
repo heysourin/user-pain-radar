@@ -1,0 +1,25 @@
+{
+  "name": "user-pain-radar",
+  "version": "1.1.0",
+  "description": "AI agent suite that discovers user pain points AND active client buyer intent across 11+ platforms, scores monetization & buyer intent (1-10), and generates personalized AI outreach drafts.",
+  "main": "index.js",
+  "bin": {
+    "skills": "./bin/cli.js"
+  },
+  "files": [
+    "agents",
+    "bin"
+  ],
+  "scripts": {},
+  "keywords": [
+    "ai-agent",
+    "user-pain-radar",
+    "client-pain",
+    "buyer-intent",
+    "lead-generation",
+    "market-research",
+    "skills"
+  ],
+  "author": "Sourin (@nexthertz_ai)",
+  "license": "MIT"
+}
